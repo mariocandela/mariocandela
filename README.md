@@ -9,3 +9,8 @@
     <img src="https://img.shields.io/badge/-m4r10-black?style=for-the-badge&logo=hackerone">
   </a>
 </p>
+<p align="center">
+ <a href="https://github.com/mariocandela">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mariocandela&count_private=true&show_icons=true&theme=dark&hide=prs,issues,contribs" />
+  </a>
+</p>
