@@ -1,6 +1,8 @@
 Hi there 👋
 
-I'm Mario! I have been working in computer science since I was 14, I’m an extremely curious and knowledge-hungry person. 
+I'm Mario! 
+
+I have been working in computer science since I was 14, I’m an extremely curious and knowledge-hungry person. 
 
 Skills:
 - Having good experience in Go, Angular, Java Spring, NodeJS, PHP, Python, Docker, Kubernetes, C, Perl, etc.
