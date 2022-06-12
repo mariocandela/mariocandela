@@ -7,7 +7,7 @@ I have been working in computer science since I was 14, I’m an extremely curio
 Skills:
 - Having good experience in Go, Angular, Java Spring, NodeJS, PHP, Python, Docker, Kubernetes, C, Perl, etc.
 - 10+ years of experience and working knowledge on Cyber Security, DevSecOps, Ethical Hacker, Malware analysis, Penetration Tester.
-- 5+ years of experience and working knowledge on most common enterprise architecture patterns, Service Oriented Architectures, RESTful, Microservices Architecture, Micro Frontend Architecture.
+- 5+ years of experience and working knowledge on most common enterprise architecture patterns, Service Oriented Architectures, RESTful, Microservices Architecture, Micro Frontend Architecture, CQRS, DDD.
 - Good experience working in agile development environment, inside project with SCRUM methodologies. 
 - Hands-on experience of Designing and Architecture of many projects.
 - 7+ years of experience of working on CI/CD(Gitlab CI/CD, CircleCI, Jenkins) automation and DevOps, DevSecOps.
