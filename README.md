@@ -1,3 +1,9 @@
+<p align="center">
+ <a href="https://github.com/mariocandela">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mariocandela&count_private=true&show_icons=true&theme=dark&hide=prs,issues,contribs" />
+  </a>
+</p>
+
 Hi there 👋
 
 I'm Mario! 
@@ -20,9 +26,3 @@ Certifications:
 - <a href="https://training.linuxfoundation.org/certification/verify/">The Linux Foundation JSNAD</a> (Credential ID: LF-smw7k0mu2d)
 
 You can also find me on <a href="https://twitter.com/m4r10c4nd3l4">twitter</a>, <a href="https://www.linkedin.com/in/mario-candela-95a591b0/">linkedin</a>, <a href="https://hackerone.com/m4r10?type=user">hackerone</a>
-
-<p align="center">
- <a href="https://github.com/mariocandela">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mariocandela&count_private=true&show_icons=true&theme=dark&hide=prs,issues,contribs" />
-  </a>
-</p>
