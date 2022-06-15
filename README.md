@@ -2,7 +2,7 @@ Hi there 👋
 
 I'm Mario! 
 
-I have been working in computer science since I was 14, I’m an extremely curious and knowledge-hungry person. 
+My curiosity is insatiable, When I was 14 years old I founded a community of computer enthusiasts (openh4ck), and since then it has become my passion.
 
 Skills:
 - Having good experience in Go, Angular, Java Spring, NodeJS, PHP, Python, Docker, Kubernetes, C, Perl, etc.
