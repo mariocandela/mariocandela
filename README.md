@@ -31,3 +31,6 @@ Certifications:
 - <a href="https://training.linuxfoundation.org/certification/verify/">The Linux Foundation JSNAD</a> (Credential ID: LF-smw7k0mu2d)
 
 You can also find me on <a href="https://www.linkedin.com/in/mario-candela-95a591b0/">linkedin</a>, <a href="https://twitter.com/m4r10c4nd3l4">twitter</a>, <a href="https://hackerone.com/m4r10?type=user">hackerone</a>
+
+[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?business=P75FH5LXKQTAC&no_recurring=0&currency_code=EUR)
+
