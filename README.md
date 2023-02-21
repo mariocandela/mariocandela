@@ -6,7 +6,7 @@
 
 Hi there 👋
 
-I am a highly experienced and passionate Senior Software Engineer. I have a Bachelor's degree in Computer Science and over 6 years of experience as a software engineer.
+I am a highly experienced and passionate Senior Software Engineer. I have a Bachelor's degree in Computer Science and over 10 years of experience as a software engineer.
 
 I have expertise in designing and implementing microservice architecture for software products, ensuring security and scalability. I have also contributed to the development of open source software and actively participate in the open source community.
 
