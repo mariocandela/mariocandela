@@ -17,7 +17,7 @@ experience spanning Staff Engineering, DevOps, Enterprise Architecture, Cyber Se
 and Generative AI.
 
 Professional background includes collaborations with Daimler, Sky UK, Sky IT, Wolters Kluwer,
-HackerOne, Zurich Insurance, NTT Datam and hlpy spa.
+HackerOne, Zurich Insurance, NTT Data and hlpy spa.
 
 Passionate about innovative technologies, security research, and the startup ecosystem.
 
